@@ -2071,7 +2071,7 @@ a.cbp-caption .cbp-l-caption-title h5 {
 /*-----------------------------------------------------------------------------------*/
 
 .parallax {
-    background: url(/style/images/art/29.jpg) fixed no-repeat center center;
+    background: url(./style/images/art/29.jpg) fixed no-repeat center center;
     background-size: cover;
     position: relative;
     z-index: 1;
